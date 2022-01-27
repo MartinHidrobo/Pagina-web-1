@@ -1,6 +1,7 @@
 body{
-	background: lightgrey;
 	font-family: MS Sans Serif, sans-serif;
+	background: url("images3/background.jpg");
+
 }
 ul {
   list-style-type: none;
@@ -89,4 +90,4 @@ th, td {
   border-bottom: 1px solid #ddd;
 }
 
-tr:hover {background-color: #FCD263;}
+tr:hover {background-color:#7BF5E1;}
